@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# This is stuff I find myself installing along the way... I might as well include it.
+
+
 #####################################
 #	Desktop
 #####################################
