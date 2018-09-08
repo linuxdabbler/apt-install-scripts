@@ -32,3 +32,5 @@ sudo apt install lxappearance -yy
 sudo apt install dmenu -yy
 
 sudo apt install rofi -yy
+
+sudo apt install papirus-icon-theme -yy
