@@ -1,0 +1,5 @@
+cd apt-install-scripts
+
+mkdir ~/Pictures/LDWP
+
+sudo mv *.png ~/Pictures/LDWP/
