@@ -3,3 +3,11 @@ cd apt-install-scripts
 mkdir ~/Pictures/LDWP
 
 sudo mv *.png ~/Pictures/LDWP/
+
+cd ~/Pictures/LDWP
+
+sudo cp LDWP* /usr/share/backgrounds
+
+cd ~/apt-install-scripts
+
+exit
