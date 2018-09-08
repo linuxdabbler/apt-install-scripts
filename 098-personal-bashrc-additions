@@ -1,0 +1,11 @@
+cd  
+
+cp .bashrc .bashrc.bak
+
+sudo apt install neofetch lolcat figlet -yy
+
+echo "figlet LinuxDabbler | lolcat" >> .bashrc
+
+echo "neofetch" >> .bashrc
+
+cd apt-install-scripts
