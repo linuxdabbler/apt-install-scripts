@@ -19,3 +19,6 @@ sudo apt update -yy
 
 sudo apt upgrade -yy
 
+sudo add-apt-repository ppa:papirus/papirus
+
+
