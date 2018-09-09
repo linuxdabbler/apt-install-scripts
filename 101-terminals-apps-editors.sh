@@ -6,7 +6,7 @@
 #	Terminals & Text Editors
 #####################################
 
-sudo apt install termite -yy
+#sudo apt install termite -yy
 
 sudo apt install rxvt-unicode urxvt-perls -yy
 
@@ -15,6 +15,10 @@ sudo apt install ranger -yy
 sudo apt install feh -yy
 
 sudo apt install neofetch -yy
+
+sudo apt install figlet -yy
+
+sudo apt install lolcat -yy
 
 sudo apt install vim -yy
 
