@@ -16,6 +16,12 @@ sudo apt install gvfs-backends -yy
 
 sudo apt install net-tools -yy
 
+sudo apt install ssh
+
 sudo systemctl enable smbd.service
 
 sudo systemctl start smbd.service
+
+sudo systemctl enable ssh
+
+sudo systemctl start ssh
