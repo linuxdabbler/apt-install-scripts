@@ -16,6 +16,8 @@ echo "alias upgrade='sudo apt upgrade -yy'" >> .bashrc
 
 echo "alias search='sudo apt-cache search'" >> .bashrc
 
+echo "alias install='sudo apt install'" >> .bashrc
+
 echo "alias senable='sudo systemctl enable'" >> .bashrc
 
 echo "alias sstart='sudo systemctl start'" >> .bashrc
