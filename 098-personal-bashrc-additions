@@ -29,6 +29,8 @@ echo "alias root='sudo su'" >> .bashrc
 
 echo "alias nasbox='ssh timelord@192.168.0.19'" >> .bashrc
 
+echo "alias kill='sudo pkill'" >> .bashrc
+
 # restart bash
 bash
 
