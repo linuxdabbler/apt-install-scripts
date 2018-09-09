@@ -4,9 +4,6 @@ cd
 # backup the bashrc just to be safe
 cp .bashrc .bashrc.bak
 
-# install neofetch lolcat and figlet 
-sudo apt install neofetch lolcat figlet -yy
-
 # bashrc customization
 echo "figlet LinuxDabbler | lolcat" >> .bashrc
 echo "neofetch" >> .bashrc
