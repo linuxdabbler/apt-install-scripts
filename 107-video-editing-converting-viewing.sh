@@ -12,4 +12,4 @@ sudo apt install vlc -yy
 
 sudo apt install totem -yy
 
-sudo apt install libav-tools -yy
+#sudo apt install libav-tools -yy
