@@ -14,6 +14,8 @@ sudo apt install ranger -yy
 
 sudo apt install feh -yy
 
+sudo apt install gdebi -yy
+
 sudo apt install neofetch -yy
 
 sudo apt install figlet -yy
