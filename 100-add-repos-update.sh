@@ -15,10 +15,11 @@ sudo apt-add-repository universe
 
 sudo apt-add-repository multiverse
 
+sudo add-apt-repository ppa:papirus/papirus
+
 sudo apt update -yy
 
 sudo apt upgrade -yy
 
-sudo add-apt-repository ppa:papirus/papirus
 
 
