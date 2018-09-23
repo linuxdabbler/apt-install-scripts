@@ -36,3 +36,5 @@ sudo apt install p7zip p7zip-full unrar-free unzip -yy
 
 sudo apt install lshw -yy
 
+sudo apt install powerline -yy
+
