@@ -8,6 +8,12 @@ cp .bashrc .bashrc.bak
 echo "figlet LinuxDabbler | lolcat" >> .bashrc
 echo "neofetch" >> .bashrc
 
+# enable Powerline Shell
+
+echo "if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
+    source /usr/share/powerline/bindings/bash/powerline.sh
+fi" >> .bashrc
+
 
 # setting up aliases
 echo "alias update='sudo apt update'" >> .bashrc
