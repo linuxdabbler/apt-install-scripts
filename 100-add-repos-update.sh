@@ -17,6 +17,8 @@ sudo apt-add-repository multiverse
 
 sudo add-apt-repository ppa:papirus/papirus
 
+sudo add-apt-repository ppa:teejee2008/ppa
+
 sudo apt update -yy
 
 sudo apt upgrade -yy
