@@ -12,3 +12,4 @@ sudo apt install gparted -yy
 
 sudo apt install bleachbit -yy
 
+sudo apt install ukuu -yy
