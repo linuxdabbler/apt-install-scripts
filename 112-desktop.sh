@@ -33,4 +33,8 @@ sudo apt install dmenu -yy
 
 sudo apt install rofi -yy
 
+sudo apt install virtualbox virtualbox-ext-pack -yy
+
 sudo apt install papirus-icon-theme -yy
+
+sudo usermod -aG vboxusers $USER
