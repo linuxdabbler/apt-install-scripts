@@ -18,6 +18,8 @@ sudo apt install gdebi -yy
 
 sudo apt install neofetch -yy
 
+sudo apt install screenfetch -yy
+
 sudo apt install figlet -yy
 
 sudo apt install lolcat -yy
