@@ -38,3 +38,15 @@ sudo apt install virtualbox virtualbox-ext-pack -yy
 sudo apt install papirus-icon-theme -yy
 
 sudo usermod -aG vboxusers $USER
+
+sudo chown $USER /etc/environment
+
+sudo chmod 755 /etc/environment
+
+sudo apt install qt5-style-plugins
+
+sudo echo "QT_QPA_PLATFORMTHEME=gtk2" >> /etc/environment
+
+sudo chown root:root /etc/environment
+
+sudo chmod 600 /etc/environment
