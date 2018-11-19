@@ -19,6 +19,10 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 sudo dpkg -i google-chrome*.deb
 
+wget https://downloads.vivaldi.com/stable/vivaldi-stable_2.1.1337.47-1_amd64.deb
+
+sudo dpkg -i vivaldi*.deb
+
 # cd back to the script folder
 cd ~/apt-install-scripts
 
