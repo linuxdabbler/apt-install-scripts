@@ -13,3 +13,7 @@ sudo apt install gparted -yy
 sudo apt install bleachbit -yy
 
 sudo apt install ukuu -yy
+
+# Download the PIA installer
+
+wget https://www.privateinternetaccess.com/installer/download_installer_linux
