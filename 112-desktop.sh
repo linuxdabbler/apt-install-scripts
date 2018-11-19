@@ -50,3 +50,9 @@ sudo echo "QT_QPA_PLATFORMTHEME=gtk2" >> /etc/environment
 sudo chown root:root /etc/environment
 
 sudo chmod 600 /etc/environment
+
+git clone https://github.com/zayronxio/Zafiro-icons
+
+sudo cp -r Zafiro-icons/ /usr/share/icons
+
+
