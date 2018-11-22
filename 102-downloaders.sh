@@ -6,7 +6,7 @@
 
 sudo apt install transmission-gtk -yy
 
-sudo apt intall git -yy
+sudo apt install git -yy
 
 sudo apt install wget -yy
 
