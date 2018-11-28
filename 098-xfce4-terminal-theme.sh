@@ -1,3 +1,8 @@
+#!/bin/sh
+
+sudo touch ~/.config/xfce4/terminal/terminalrc
+
+
 sudo echo "[Configuration]
 ColorCursor=#c7c7ccccd1d1
 ColorForeground=#c7c7ccccd1d1
