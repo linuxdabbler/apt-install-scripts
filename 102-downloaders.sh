@@ -10,6 +10,8 @@ sudo apt install git -yy
 
 sudo apt install wget -yy
 
+sudo apt install gdebi -yy
+
 
 
 
