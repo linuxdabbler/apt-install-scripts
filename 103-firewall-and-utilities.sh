@@ -16,11 +16,9 @@ sudo apt install ukuu -yy
 
 # Install Etcher AppImage
 
-sudo apt install gdebi
-
 wget https://github.com/resin-io/etcher/releases/download/v1.1.1/etcher-electron_1.1.1_amd64.deb
 
-sudo gdebi etcher-electron_1.1.1_amd64.deb
+sudo gdebi etcher-electron_1.1.1_amd64.deb -yy
 
 # Download the PIA installer
 
