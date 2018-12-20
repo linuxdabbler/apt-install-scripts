@@ -16,6 +16,8 @@ sudo apt install python-pip -yy
 
 sudo apt install python3-pip -yy
 
+sudo pip install youtube-dl
+
 
 
 
