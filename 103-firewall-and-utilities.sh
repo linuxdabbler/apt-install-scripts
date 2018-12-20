@@ -16,10 +16,10 @@ sudo apt install ukuu -yy
 
 # Install Etcher AppImage
 
-wget https://github.com/resin-io/etcher/releases/download/v1.1.1/etcher-electron_1.1.1_amd64.deb
+wget https://github.com/resin-io/etcher/releases/download/v1.1.1/etcher-electron_1.1.1_amd64.deb ~/$USER
 
 sudo gdebi etcher-electron_1.1.1_amd64.deb
 
 # Download the PIA installer
 
-wget https://www.privateinternetaccess.com/installer/download_installer_linux
+wget https://www.privateinternetaccess.com/installer/download_installer_linux ~/$USER
