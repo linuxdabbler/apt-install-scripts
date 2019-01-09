@@ -35,8 +35,6 @@ sudo apt install rofi -yy
 
 sudo apt install virtualbox virtualbox-ext-pack -yy
 
-sudo apt install papirus-icon-theme -yy
-
 sudo usermod -aG vboxusers $USER
 
 sudo chown $USER /etc/environment
@@ -51,8 +49,5 @@ sudo chown root:root /etc/environment
 
 sudo chmod 600 /etc/environment
 
-git clone https://github.com/zayronxio/Zafiro-icons
-
-sudo cp -r Zafiro-icons/ /usr/share/icons
 
 
