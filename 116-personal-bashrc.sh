@@ -5,7 +5,7 @@ cd
 cp .bashrc .bashrc.bak
 
 # bashrc customization
-echo "figlet $USER | lolcat" >> .bashrc
+echo "figlet -f smslant $USER | lolcat" >> .bashrc
 echo "screenfetch" >> .bashrc
 
 # enable Powerline Shell
